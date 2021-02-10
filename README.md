@@ -37,6 +37,7 @@ Porque nuestro cliente necesita solucionar su problema de baja visibilidad comer
 Construir el Lean Canvas.
  
 9.    Mockups de la aplicación
+
  
 Se deben entregar los mockups de la aplicación, usar un software y subir las imágenes al repositorio.
 Realizar una descripción de cada Mockup, Como mínimo la aplicación debe tener 3 vistas.
