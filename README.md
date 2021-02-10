@@ -38,14 +38,7 @@ Construir el Lean Canvas.
  
 9.    Mockups de la aplicación
 
- 
-Se deben entregar los mockups de la aplicación, usar un software y subir las imágenes al repositorio.
-Realizar una descripción de cada Mockup, Como mínimo la aplicación debe tener 3 vistas.
-Ejemplos de software para construir interfaces de usuario.
- 
-Marvel app (https://marvelapp.com)
-Figma (https://www.figma.com)
-Adobe XD (https://www.adobe.com/products/xd.html)
+ https://docs.google.com/presentation/d/1y3c7nrzTep_2isworlbQWTJYf-n1IMVhpA_GTuJX1UI/edit#slide=id.gba8bae4cf4_0_60
  
 10.   Descripción de la aplicación
  
