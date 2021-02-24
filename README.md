@@ -24,7 +24,7 @@ Describir el por qué y para qué se va a realizar el proyecto.
 Porque nuestro cliente necesita solucionar su problema de baja visibilidad comercial. Para eso vamos a crear una página en el que estén juntas todas sus ofertas y las pueda ofrecer al público de manera mas rapida y sencilla.
  
 5.	Estado del arte:
-Últimas aplicaciones que se han desarrollado y que están relacionadas al tema de la aplicación. Describir el valor agregado de la aplicación que se va a desarrollar.
+https://renosanjuan.com.co/,  https://autolab.com.co/ o https://www.radiocarcali.com/nosotros/ por ejemplo son websites con una idea muy similar a la que tenemos planteada, con la diferencia de que neustra pagina busca ser un sitio traducido para varios idiomas, principalmente espanol e ingles
  
 6.	Objetivo general:
 	Unificar las ofertas de negocio de nuestro cliente en un solo sitio web
