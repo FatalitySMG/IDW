@@ -9,7 +9,6 @@ También deben existir en el repositorio dos Release que se llamen v0.1.0 y v1.0
 Desarrollo de aplicativo web para Night Breaker Towing Store
  
 1.	Introducción
-2.	
 Página web que muestra los diferentes servicios de la empresa , mostrando su ubicación, las opciones de contacto y las distintas ofertas que presenta.
 2.	Tema
 Página web empresarial.
@@ -36,7 +35,7 @@ Simplificar la información para el cliente y el usuario objetivo.
  
 8.    Modelo de negocio
  
-Construir el Lean Canvas.
+https://docs.google.com/presentation/d/1y3c7nrzTep_2isworlbQWTJYf-n1IMVhpA_GTuJX1UI/edit#slide=id.gc0932850d8_0_0
  
 9.    Mockups de la aplicación
 
@@ -44,6 +43,7 @@ Construir el Lean Canvas.
  
 10.   Descripción de la aplicación
  
-Describir si la aplicación guarda información en una base de datos y si consume un servicio externo. Especificar qué información es necesario guardar en una base de datos.
+La página principal tiene anclados en la parte superior los links a la página de contacto (Contiene Ubicación en google maps, Números telefónicos, correos etc..) y todos los servicios que maneja la empresa(Grúa, pintura, mecanico, revision),para que de esta manera los usuarios que ya saben lo que quieren o necesitan, puedan acceder de manera rápida y eficaz a estos, además, si se continúa bajando en la página principal habrá una pequeña introducción a la empresa y a su misiòn,también se podrán ver descripciones e imágenes de cada uno de los servicios, y al dar click en estas, se abrirán páginas dedicadas a cada servicio donde se mostraran los precios , ofertas, reseñas etc…
  
 11.   Bibliografía
+Pagina de AUTO MECANICOS: https://renosanjuan.com.co/automecanicos/?https%3A%2F%2Frenosanjuan_com_co%2Fautomecanicos%2F&gclid=Cj0KCQiA7NKBBhDBARIsAHbXCB6WQssf6htgFGMlNgDt7pYeuHl-r4O36Mf9W0AyH144G0GdXlP1rIsaAp8yEALw_wcB
