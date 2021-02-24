@@ -8,7 +8,7 @@ También deben existir en el repositorio dos Release que se llamen v0.1.0 y v1.0
  
 Desarrollo de aplicativo web para Night Breaker Towing Store
  
-1.	Introducción
+1.	Introducción /n
 Página web que muestra los diferentes servicios de la empresa , mostrando su ubicación, las opciones de contacto y las distintas ofertas que presenta.
 2.	Tema
 Página web empresarial.
