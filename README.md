@@ -27,10 +27,11 @@ Porque nuestro cliente necesita solucionar su problema de baja visibilidad comer
 Últimas aplicaciones que se han desarrollado y que están relacionadas al tema de la aplicación. Describir el valor agregado de la aplicación que se va a desarrollar.
  
 6.	Objetivo general
+7.	Unificar las ofertas de negocio de nuestro cliente en un solo sitio web
  
 7.    Objetivos específicos
- 
- 
+8.     Aumentar el alcance del negocio mediante la divulgación masiva del sitio web.
+Simplificar la información para el cliente y el usuario objetivo.
  
 8.    Modelo de negocio
  
